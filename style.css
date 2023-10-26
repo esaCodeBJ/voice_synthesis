@@ -1,0 +1,14 @@
+body {
+  font-family: 'Nunito', sans-serif !important;
+ font-size: 22px !important;
+}
+.card-container {  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  width: 300px;
+  margin: 20px;
+}
